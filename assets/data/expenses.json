@@ -1,0 +1,14 @@
+ [
+  {
+    "category": "Food",
+    "amount": 25.50
+  },
+  {
+    "category": "Transport",
+    "amount": 15.00
+  },
+  {
+    "category": "Study",
+    "amount": 40.00
+  }
+]
